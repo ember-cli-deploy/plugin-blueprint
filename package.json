@@ -1,0 +1,18 @@
+{
+  "name": "@ember-cli-deploy/plugin-blueprint",
+  "version": "0.0.8",
+  "description": "Ember CLI blueprint for initializing a new Ember CLI Deploy plugin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ember-cli-deploy/plugin-blueprint.git"
+  },
+  "author": "The EmberCLI Deploy Team",
+  "license": "MIT",
+  "keywords": [
+    "ember-blueprint"
+  ],
+  "bugs": {
+    "url": "https://github.com/ember-cli-deploy/plugin-blueprint/issues"
+  }
+}
