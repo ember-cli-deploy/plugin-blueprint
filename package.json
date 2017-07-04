@@ -1,6 +1,6 @@
 {
   "name": "@ember-cli-deploy/plugin-blueprint",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Ember CLI blueprint for initializing a new Ember CLI Deploy plugin",
   "main": "index.js",
   "repository": {
