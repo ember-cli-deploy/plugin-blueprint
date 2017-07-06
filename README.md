@@ -4,11 +4,11 @@
 
 This repository holds the blueprint for generating a new Ember CLI Deploy plugin.
 
-It is to be used, currently, with Ember CLI Canary, which you have to install from the [`master` branch](https://github.com/ember-cli/ember-cli).
+It can be used with Ember CLI 2.14+
 
 To learn more about making blueprints, consult [the blprnt repository](https://github.com/ember-cli/blprnt).
 
-To generate a plugin using this blueprint, install Ember CLI Canary (`yarn global add ember-cli/ember-cli`), and run:
+To generate a plugin using this blueprint, install Ember CLI 2.14+ (`yarn global add ember-cli`), and run:
 
 ```bash
 ember new ember-cli-deploy-hello -b @ember-cli-deploy/plugin-blueprint
