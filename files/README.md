@@ -23,7 +23,7 @@ $ ember install <%= name %>
 - Run the pipeline
 
 ```bash
-$ ember deploy
+$ ember deploy production
 ```
 
 ## Installation
